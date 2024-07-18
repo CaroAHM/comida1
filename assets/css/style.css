@@ -1,0 +1,163 @@
+body * {
+    font-family: "Cabin", sans-serif;
+}
+
+.barra {
+    background-color: #373A3C;
+    color: white;
+}
+
+.logo {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.4rem;
+}
+
+.raya {
+    border-top: solid;
+    border-color: #373A3C;
+    border-width: thin;
+
+}
+
+.rayaAB {
+    border-bottom: solid;
+    border-color: #373A3C;
+    border-width: thin;
+
+}
+
+.rec {
+    font-size: 2rem;
+    color: #373A3C;
+}
+
+@media(max-width: 576px) {
+    .ancho {
+        width: 18rem;
+    }    
+    .rayasup {
+        border-top: solid;
+        border-color: #373A3C;
+        border-width: thin;
+    
+    }
+}
+
+.receta {
+    color: #373A3C;
+    font-size: 1.3rem;
+    font-family: "Cabin", sans-serif;
+}
+
+@media(min-width: 577px) {
+    .ancho {
+        width: 24rem;
+    }
+
+    .grande {
+        font-size: 3rem;
+    }
+
+    .subr {
+        border-bottom: solid;
+        border-color: #373A3C;
+        border-width: thin;    
+        width: 185px;
+    }
+}
+
+.rosado {
+    background-color: #DC3545;
+    color: white;
+}
+
+.borde {
+    border-color: white;
+    width: 300px;
+    font-size: 1.2rem;
+    font-family: "Cabin", sans-serif;
+}
+
+header {
+    color: #373A3C;
+}
+
+section div h2 {
+    font-size: 2.3rem;
+}
+
+section div span {
+    font-size: 1.5rem;
+}
+
+.letra {
+    font-family: "Lobster", sans-serif;
+}
+
+footer div h2 {
+    font-family: "Lobster", sans-serif;
+    font-size: 3rem;
+}
+
+  .carousel-indicators [data-bs-target] { 
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    position: relative;  
+    background-color: #373A3C;  
+  }
+  
+ 
+
+/* .anch3 img {
+    
+    height: 100%;
+    width: 100%; 
+    
+}
+ */
+
+/* 
+.lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+   */
+
+/* 
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 700
+
+.cabin-<uniquifier> {
+  font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+   @media(min-width: 800px) {
+    .alin {
+       text-align: start;
+    }
+} */
+
+
+
+
+/* 
+#section1 {
+ height: 600px;
+ background-color: pink;
+}
+#section2 {
+ height: 600px;
+ background-color: yellow;
+}
+ */
